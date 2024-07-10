@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "orbital-eon-410501",
+  "private_key_id": "f7609d0f3f4a055e893883aac288f7093e98603c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCbBa32moiPOiV8\nDXvixTeKw88AWBAqbMKyh3HNp8355ma7Jz5x31yG1mFeIb+x3HTwwvzG4c6rt6wZ\nqIctVX2ZQgtH0+jNY64Bn+wle98UpvOTFT0gE5O5RKjzwpezshpZtm5nG4r2Tn2d\ntCKsh3G8EXeWh8A29kh/5Bt0Vd8HhOfgSzGTgU2i2ik9vNk4xHxhjpZ5AvFUzvNX\nlAjElaBuo2aox562/+lzzQ6seamIxEOaKsfVY0GYDRn1yoOqSqO5zbTit26lhoDg\nBMm/QVs98lin38uysMchGffnP5XP/2v8YWbpy+CS5y8fsRRfEcho3LIeF+p9M0vz\nd+ZfXTfXAgMBAAECggEAEvG353h4CA9s2u2SPk1SiHMoU0bvvCIsDYF5efkv4IJJ\npe+u9QnSNqobyP3qfVOkY3MN9/H1UyJwIMyUWbO7qbnFQ3hVLUWpUzUrYw3xs4Y5\neDfID1Oadwa5zNwdX3jRjoq5kCvF/haWdD9ks10enC3YRZLTqFki1U+CFA6VtvHT\n9EUSFh6vMIFfogBAH5AmSFFMEi8dW9zDEHW/8chd/sqdkTt+G48QxBJuWmUkaJrB\nTjm+gu/QHCnJh0y02ToP31+lnZbyMw969wqAwA0MJZMxmr+jVZGYyqyeXzTpts5p\nxtK45Fvwxbmg9b/zW8QmIuyD1S4RalwLSJ/c0HtPvQKBgQDWq/u/zQqgHFqBissB\nCnECAnResFhC6FwSoISHqN9AdDT30sg4mAQNOG1naTMiNO08L+WmTBhRezOS9lzG\njrZduNfx4yDZZVIHwQBX17L/rrIzEdye/OFAcOnE8f2GSv+R13kkPQZEiAwlh/qn\n9u1QaoGFngn1v/QxPdwEVbsqdQKBgQC43eM7hmnkiTE8ZGUp78ijkHw/Hs+dfQd7\n6v5AdAlyl7XN0uv66kNe9TXMSJI2GkWIqOHJq5HgdMGFYteQU8q/sKtb32iPgfH/\nEut0iNiGgsoYbdSRRRbdes9hvnTDtqsjPscD/q0ZXC1PB3gp1VgkjX6dTt6MnzIV\ntPWpwhIXmwKBgH+cMMTtcDmJYUvMY6y0tkTJjL+U+IKdec4g2WeDPWMlMS94f0kV\nJKNvPanRYXIeIEA9ALkAVxxorlnYVYI657GC5euGZsqUblTpp/iP4noXMRsmrQ1d\nqdESzgQjDeA8yPu7KOof1I/8h6vvz1L1eFDrXx88uRL7DoAPE7EH/YDZAoGAdLmF\nVHxWODp3oA4z4frI0J3WFXS62lGrfA6wYrnhjT1FSaQ348Iur7JcOZRI3WhRJyyb\nA98UyIhv+Gykdziw97/xMp0pRBNkXQ3xJS+Sp7vFJw+R+/eHrGhysOC0kS6xeBuX\nRWp0mWKeKRwqPx+5+7pri5/U3S1XTmVoB7vF+KkCgYEAnIlNXvImPqadKUiY2wOl\niZM1HG0omWV4Tqq7TrILdikV1/rr2w29bI5CcJu7Qfwup10djnN5t7VcCC5aVBlM\npGCyK9aLqrA7k/TCvuAuLfgiFsE62eTpnqAq8B/oN9jm6C/9JOQWkm+h8cA8XFto\nD1goxlQUe/9Op3MtT2wzTfA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "final-load-from-gcs-to-bigquer@orbital-eon-410501.iam.gserviceaccount.com",
+  "client_id": "117154020362981704149",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/final-load-from-gcs-to-bigquer%40orbital-eon-410501.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100&display=swap'); 
+
+h1 [class*="css"] {
+    font-family: 'Kanit', sans-serif; 
+    font-size: 30px;
+    font-weight: bold;
+    font-weight: 500;
+    color: rgb(255, 70, 18);
+}
+h2 [class*="css"] {
+    font-family: 'Kanit', sans-serif; 
+    font-size: 24px;
+    font-weight: bold;
+    font-weight: 500;
+    color: rgb(145, 145, 145);
+}
+
+html, body [class*="css"] {
+    font-family: 'Kanit', sans-serif; 
+    font-size: 18px;
+    font-weight: 500;
+}
